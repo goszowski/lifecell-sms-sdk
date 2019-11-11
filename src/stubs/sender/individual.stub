@@ -1,0 +1,4 @@
+<message>
+  <service id="individual" uniq_key="%uniq_key%" />
+    %to_body%
+</message>

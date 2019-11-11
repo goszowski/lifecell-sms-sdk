@@ -1,0 +1,5 @@
+<message>
+  <service id="bulk" uniq_key="%uniq_key%" />
+  %to%
+  <body content-type="text/plain">%message%</body>
+</message>

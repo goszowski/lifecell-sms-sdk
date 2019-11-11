@@ -1,0 +1,24 @@
+{
+    "name": "sgroshi/sms",
+    "description": "Пакет для отправки СМС-сообщений",
+    "version": "1.0.0",
+    "keywords": ["Sgroshi", "Sms"],
+    "license": "MIT",
+
+    "authors": [
+        {
+            "name": "Ярослав Гошовський",
+            "email": "goszowski@gmail.com"
+        }
+    ],
+
+    "require": {
+        "php": ">=7.2",
+    },
+
+    "autoload": {
+        "psr-4": {
+            "Sgroshi\\Sms\\": "src/"
+        }
+    }
+}

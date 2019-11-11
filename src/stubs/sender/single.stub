@@ -1,0 +1,5 @@
+<message>
+  <service id="single" />
+  <to>%to%</to>
+  <body content-type="text/plain">%message%</body>
+</message>
